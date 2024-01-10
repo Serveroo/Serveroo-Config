@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Poppins";
     src: local("Poppins-Bold"),
-    url("./fonts/Poppins-Bold.ttf") format("truetype");
+    url("./../fonts/Poppins-Bold.ttf") format("truetype");
     font-weight: bold;
 }
 
